@@ -35,20 +35,33 @@ Create JSConfig for Better Imports
 echo '{"compilerOptions": {"baseUrl": "src"}}' > jsconfig.json
 
 Redux Toolkit Configuration
+
 Set up Redux Toolkit for state management.
+
 Routing Setup
+
 Implement routing using react-router-dom@6.
+
 Testing, Documentation, and Deployment
 Test functionalities, document API endpoints, and deploy both backend and frontend as needed.
+
 Additional Considerations
 Version Control (Git)
+
 Initialize a Git repository, commit the initial setup, and push to a remote repository (e.g., GitHub).
+
 Environment Variables
 Keep sensitive information in the .env file for security.
+
+
 Documentation
 Document API endpoints, testing practices, and any other relevant information.
+
+
 Error Handling and Logging
 Implement robust error handling on both server and client sides.
+
+
 Responsive Design
 Ensure the website is responsive for various devices.
 
